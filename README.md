@@ -1,3 +1,10 @@
+# Ingenieria en sistemas computacionales, Tecnologías de la información y la comunicación
+# Integrantes de Equipo
+-Tania Navarro Martinez
+- Eduardo Emanuel Un Suaste
+- Vanessa Nava Gutiérrez 
+- Maria Jose Yañez Sanchez
+- Jose Armando Galindo Jasso
 # Screenshot Del Proyecto
 - Funcionalidad
 ![](Docs/1.jpeg)
