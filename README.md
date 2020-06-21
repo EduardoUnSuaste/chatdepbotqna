@@ -1,6 +1,6 @@
 # Screenshot Del Proyecto
 - Funcionalidad
-![](Docs/1.JPEG)
+![](Docs/1.jpeg)
 - sign up
-![](Docs/2.JPEG)
+![](Docs/2.jpeg)
 - Inicio del usuario para crear Evidencias
